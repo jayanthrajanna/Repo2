@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0664-7C4F
+
+ Directory of C:\Users\jayanth.rajanna\Documents\TestFolder
+
+04/10/2019  06:16 PM    <DIR>          .
+04/10/2019  06:16 PM    <DIR>          ..
+04/10/2019  05:24 PM                 8 file1.txt
+04/10/2019  06:16 PM                 0 file2.txt
+04/10/2019  05:25 PM               417 index.html
+               3 File(s)            425 bytes
+               2 Dir(s)  346,756,886,528 bytes free
